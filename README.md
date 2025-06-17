@@ -20,6 +20,8 @@
 </h4>
 </div>
 
+[![Dataset: CAPDELS](https://img.shields.io/badge/Dataset-CAPDELS-FFD21E.svg)](https://huggingface.co/datasets/ospanbatyr/capdels)
+
 ![Demo GIF](./figures/project1.gif)
 
 <div align="left">

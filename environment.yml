@@ -1,0 +1,4 @@
+name: dynamic_mm
+
+dependencies:
+  - python=3.11
